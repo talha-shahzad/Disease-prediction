@@ -1,6 +1,3 @@
-Here’s a simple and professional `README.md` for your **Disease Prediction Web App** project:
-
----
 
 # 🧠 Simple Disease Prediction Web App
 
@@ -90,4 +87,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you’d like to include specific details like the model type, dataset used, or a screenshot preview!
